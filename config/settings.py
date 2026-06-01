@@ -136,3 +136,7 @@ if not DEBUG:
     AWS_STORAGE_BUCKET_NAME = 'goodness-portfolio-1'
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+
+STATICFILES_STORAGE = (
+    "whitenoise.storage.CompressedManifestStaticFilesStorage"
+)
