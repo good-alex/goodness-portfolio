@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "goodness-portfolio-1.onrender.com",
 ]
 
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
