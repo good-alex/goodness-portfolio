@@ -16,7 +16,8 @@ db.sqlite3-journal
 
 # Media files
 media/
-
+*.jpg
+*.png
 # Static files collected by collectstatic
 staticfiles/
 
